@@ -38,7 +38,7 @@
 
 #home{
 	background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),
-	url('Image/coverPage.jpg');
+	url('coverPage.jpg');
 	background-size: cover;
 	background-position: center;
 	color: #efefef !important;
@@ -107,7 +107,7 @@
 
 #services{
 	background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),
-	url('Image/african-woman-teaching-children-class.jpg');
+	url('african-woman-teaching-children-class.jpg');
 	background-size: cover;
 	background-position: center;
 	color: #efefef !important;
@@ -242,7 +242,7 @@ border-radius: 50%;
 
 #promo{
 	background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)),
-	 url('Image/african-woman-teaching-children-class.jpg');
+	 url('african-woman-teaching-children-class.jpg');
 	 background-size: cover;
 	 background-position: center;
 	 color: #fff;
